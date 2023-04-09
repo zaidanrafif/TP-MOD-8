@@ -1,0 +1,15 @@
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\bin\Debug\net6.0\TP_MOD8_1302213072.exe
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\bin\Debug\net6.0\TP_MOD8_1302213072.deps.json
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\bin\Debug\net6.0\TP_MOD8_1302213072.runtimeconfig.json
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\bin\Debug\net6.0\TP_MOD8_1302213072.dll
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\bin\Debug\net6.0\TP_MOD8_1302213072.pdb
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.csproj.AssemblyReference.cache
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.AssemblyInfoInputs.cache
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.AssemblyInfo.cs
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.csproj.CoreCompileInputs.cache
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.dll
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\refint\TP_MOD8_1302213072.dll
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.pdb
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\TP_MOD8_1302213072.genruntimeconfig.cache
+C:\Users\zaida\OneDrive\Documents\TP KPL\TP_MOD8_1302213072\obj\Debug\net6.0\ref\TP_MOD8_1302213072.dll
